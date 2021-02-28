@@ -7,6 +7,11 @@
 [![Contributors](https://img.shields.io/github/contributors-anon/creyD/prettier_action)](https://github.com/creyD/prettier_action/graphs/contributors)
 [![Issues](https://img.shields.io/github/issues/creyD/prettier_action)](https://github.com/creyD/prettier_action/issues)
 
+:warning: **Archived fork** — _Please use the upstream repository instead._ :warning:
+
+This repo was originally forked from [creyD/prettier_action](https://github.com/creyD/prettier_action) to add support for [@prettier/plugin-xml](https://github.com/prettier/plugin-xml) in [472ce7e](https://github.com/infotexture/prettier_xml_action/commit/472ce7ee3591de0bfb008daf3c98c81fb3224002) per [creyD/prettier_action#22](https://github.com/creyD/prettier_action/issues/22). As of [v3.3](https://github.com/creyD/prettier_action/releases/tag/v3.3), the upsteam repository provides built-in support for Prettier plug-ins, so this fork is no longer required _(or recommended)_.
+
+* * * 
 
 A GitHub action for styling files with [prettier](https://prettier.io).
 
